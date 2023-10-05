@@ -1,0 +1,12 @@
+# Site settings
+title:
+email: clouddevops.ltd@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "clouddevops.ltd" # the base hostname & protocol for your site
+
+# twitter_username: ShreekantPK
+# github_username: shreekantpk
+
+# Build settings
+markdown: kramdown
